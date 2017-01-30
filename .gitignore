@@ -1,0 +1,4 @@
+.DS_Store
+vaults/*/encrypted/*
+!vaults/*/encrypted/*.enc
+*.pem
